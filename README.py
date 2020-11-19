@@ -1,5 +1,5 @@
 # SoccerData
-
+#goal is to create the final table of serieA
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
